@@ -5,11 +5,13 @@ Use sn_downloader.py to grab episodes on each page and store in appropriately na
 After you've downloaded desired episodes, run sn_renamer.py, changing the webpage_url variable to the appropriate path for the year of the folder containing the MP3s you're trying to rename. You'll also want to modify the folder variable to make sure you're modifying the names for only those episodes for the associated year. 
 
 
-**sn_renamer_practice.py doesn't work, as the name implies. sn_getter.py was my attempt with wget more or less copied from another GRC user. I wanted to preserve these anyways and was too lazy to make another branch ;). 
+
 
 After this, you can load into whatever MP3 platform you wish. Should make it a lot easier to benefit from old episodes without having to constantly scroll to the very beginning on a tiny phone screen! 
 
 Shoutout to Recovery9787 who did this with wget. For some reason I couldn't get wget to work. ChatGPT suggested the requests library, so I kinda went from there. 
+
+**sn_renamer_practice.py doesn't work, as the name implies. sn_getter.py was an attempt with wget copied from Recovery9787. I wanted to preserve these anyways and was too lazy to make another branch ;). 
 
 Thanks Steve and Leo for everything you do for the community!
 
