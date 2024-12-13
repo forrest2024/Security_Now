@@ -1,4 +1,4 @@
-Tools to scrape old SN episodes and add descriptive names to each. MP3 title metadata is a bit spotty from Twit, so I found it cleaner to scrape the names from the HTML on the page for each year of podcasts. I couldn't figure out how to do all episodes unfortunately, but hopfully this will help you save a lot of time anyways. 
+Tools to scrape old SN episodes and add descriptive names to each. MP3 title metadata is a bit spotty from Twit, so I found it cleaner to scrape the names from the HTML on the page for each year of podcasts. I couldn't figure out how to do all episodes at once unfortunately, but hopfully this will help you save a lot of time anyways. 
 
 Use sn_downloader.py to grab episodes on each page and store appropriately named directories. 
 
